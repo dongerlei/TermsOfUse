@@ -1,5 +1,3 @@
-Terms of Service
-
 Last updated: 2023.6.26
 
 Please read these terms of service ("Terms") carefully before using mobile application (the "Service") operated by dopuzzlejoy ("us," "we," or "our").
