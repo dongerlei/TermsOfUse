@@ -1,8 +1,8 @@
 Terms of Service
 
-Last updated: [Date]
+Last updated: 2023.6.26
 
-Please read these terms of service ("Terms") carefully before using [Your App Name] mobile application (the "Service") operated by [Your Company Name] ("us," "we," or "our").
+Please read these terms of service ("Terms") carefully before using mobile application (the "Service") operated by dopuzzlejoy ("us," "we," or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
 
@@ -28,4 +28,4 @@ By continuing to access or use our Service after those revisions become effectiv
 
 Contact Us
 
-If you have any questions about these Terms, please contact us at [Your Contact Information].
+If you have any questions about these Terms, please contact us at contact@dopuzzlejoy.com
